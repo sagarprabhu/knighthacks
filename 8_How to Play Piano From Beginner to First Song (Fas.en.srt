@@ -1,0 +1,1378 @@
+﻿1
+00:00:00,390 --> 00:00:02,290
+- Hey everyone, my name
+is Jacques Hopkins,
+
+2
+00:00:02,290 --> 00:00:04,530
+and thank you so much for
+joining me here today,
+
+3
+00:00:04,530 --> 00:00:06,730
+where we're going to learn some piano.
+
+4
+00:00:06,730 --> 00:00:08,055
+In this lesson, I'm going to take you
+
+5
+00:00:08,055 --> 00:00:12,420
+from the very, very beginning
+of the piano learning process,
+
+6
+00:00:12,420 --> 00:00:15,340
+all the way to, at the end of this lesson,
+
+7
+00:00:15,340 --> 00:00:17,620
+you're going to be able to
+play a song on the piano.
+
+8
+00:00:17,620 --> 00:00:20,230
+And not just any song, it's
+not gonna be Three Blind Mice
+
+9
+00:00:20,230 --> 00:00:21,330
+or something like that.
+
+10
+00:00:21,330 --> 00:00:24,169
+We're gonna play a
+very, very popular song.
+
+11
+00:00:24,170 --> 00:00:25,427
+We're gonna play "Let It Be",
+
+12
+00:00:25,427 --> 00:00:28,450
+by the one and only, The Beatles.
+
+13
+00:00:28,450 --> 00:00:31,830
+In just about 15 minutes
+or so, in this lesson.
+
+14
+00:00:31,830 --> 00:00:32,930
+I will take you from,
+
+15
+00:00:32,930 --> 00:00:35,320
+even if you've never
+touched a piano before,
+
+16
+00:00:35,320 --> 00:00:38,870
+to being able to play "Let
+It Be", by The Beatles.
+
+17
+00:00:38,870 --> 00:00:40,890
+So let's go ahead and get started.
+
+18
+00:00:40,890 --> 00:00:44,180
+Now, this is my keyboard, it has 88 keys.
+
+19
+00:00:44,180 --> 00:00:47,840
+That is a standard amount
+of keys for any piano.
+
+20
+00:00:47,840 --> 00:00:50,610
+If you have a keyboard,
+that has less than 88 keys,
+
+21
+00:00:50,610 --> 00:00:52,050
+chances are that's okay.
+
+22
+00:00:52,050 --> 00:00:54,730
+I want you to have at least 49 keys.
+
+23
+00:00:54,730 --> 00:00:56,331
+So if you have at least 49 keys,
+
+24
+00:00:56,332 --> 00:00:58,170
+then you're ready to get started.
+
+25
+00:00:58,170 --> 00:01:00,670
+If you don't have 49 keys,
+if you have less than that,
+
+26
+00:01:00,670 --> 00:01:02,370
+you can give this a shot,
+
+27
+00:01:02,370 --> 00:01:03,835
+but keep in mind that I did warn you,
+
+28
+00:01:03,835 --> 00:01:07,650
+you may not have enough
+room for both of your hands.
+
+29
+00:01:07,650 --> 00:01:09,340
+Now, if you're not
+familiar with the piano,
+
+30
+00:01:09,340 --> 00:01:10,770
+if you don't know how to play it,
+
+31
+00:01:10,770 --> 00:01:13,580
+just looking at one could be intimidating.
+
+32
+00:01:13,580 --> 00:01:16,340
+Alright, so we have 88 keys here.
+
+33
+00:01:16,340 --> 00:01:18,730
+There's these black keys,
+there's these white keys.
+
+34
+00:01:18,730 --> 00:01:20,730
+You know, what's the
+difference between the two?
+
+35
+00:01:20,730 --> 00:01:21,720
+And that's the first step,
+
+36
+00:01:21,720 --> 00:01:24,263
+is we're gonna learn what
+all the notes are called
+
+37
+00:01:24,263 --> 00:01:26,460
+on the piano, so you can play all them,
+
+38
+00:01:26,460 --> 00:01:28,649
+each individual note.
+
+39
+00:01:28,650 --> 00:01:30,525
+Alright, so, you don't have to memorize
+
+40
+00:01:30,525 --> 00:01:32,217
+all 88 keys on the piano.
+
+41
+00:01:32,217 --> 00:01:34,475
+You just have to memorize these sections
+
+42
+00:01:34,475 --> 00:01:37,770
+of 12 keys, because those
+patterns, those sections,
+
+43
+00:01:37,770 --> 00:01:40,194
+they just repeat themselves
+over and over again,
+
+44
+00:01:40,194 --> 00:01:42,240
+across the entire piano.
+
+45
+00:01:42,240 --> 00:01:45,759
+So let's zoom in on one of
+these sections of 12 keys.
+
+46
+00:01:45,760 --> 00:01:47,870
+You'll notice there are seven white keys,
+
+47
+00:01:47,870 --> 00:01:49,310
+and there are five black keys.
+
+48
+00:01:49,310 --> 00:01:51,150
+You see these two black
+keys that are together,
+
+49
+00:01:51,150 --> 00:01:53,450
+and then we have these three
+black keys are together.
+
+50
+00:01:53,450 --> 00:01:56,520
+Look at that pattern, that
+pattern just repeats itself
+
+51
+00:01:56,520 --> 00:01:57,660
+across the entire piano.
+
+52
+00:01:57,660 --> 00:02:00,950
+So, there's not really 88
+different notes on the piano.
+
+53
+00:02:00,950 --> 00:02:02,970
+There's really 12 different notes.
+
+54
+00:02:02,970 --> 00:02:04,910
+So we need to learn these 12 notes,
+
+55
+00:02:04,910 --> 00:02:06,410
+and once you've learned those 12 notes,
+
+56
+00:02:06,410 --> 00:02:09,199
+you've learned all 88 of them.
+
+57
+00:02:09,199 --> 00:02:10,679
+So, let's dive right in.
+
+58
+00:02:10,680 --> 00:02:11,740
+The most popular note,
+
+59
+00:02:11,740 --> 00:02:14,150
+you probably have heard it before, it's C.
+
+60
+00:02:14,150 --> 00:02:16,136
+Alright, right here is
+C, it's the white note
+
+61
+00:02:16,136 --> 00:02:19,010
+just to the left of the
+any two black notes.
+
+62
+00:02:19,010 --> 00:02:22,100
+So this is C, this is
+C, this is C and so on.
+
+63
+00:02:22,100 --> 00:02:24,030
+But we're just gonna focus in
+on this section right here.
+
+64
+00:02:24,030 --> 00:02:26,960
+So, in music, we go to the right,
+
+65
+00:02:26,960 --> 00:02:29,240
+we go continue down the alphabet.
+
+66
+00:02:29,240 --> 00:02:33,430
+So we go C, D, E,
+
+67
+00:02:33,430 --> 00:02:37,430
+F, G, and then in music,
+
+68
+00:02:37,430 --> 00:02:38,817
+not just piano, but in music,
+
+69
+00:02:38,817 --> 00:02:41,180
+the letters start over after G.
+
+70
+00:02:41,180 --> 00:02:44,120
+So after G is not H,
+there's no H in music.
+
+71
+00:02:44,120 --> 00:02:46,310
+This is A, and then B.
+
+72
+00:02:46,310 --> 00:02:51,310
+So again, C, D, E, F, G, A, and B.
+
+73
+00:02:52,480 --> 00:02:54,880
+So there's the seven white notes.
+
+74
+00:02:54,880 --> 00:02:56,280
+And then we have the five black notes.
+
+75
+00:02:56,280 --> 00:03:00,090
+So these black notes are
+named for their relationship
+
+76
+00:03:00,090 --> 00:03:03,230
+with the white note next to them, okay.
+
+77
+00:03:03,230 --> 00:03:05,617
+So, for example, right here,
+
+78
+00:03:05,617 --> 00:03:10,617
+this is called C sharp,
+and it's also D flat.
+
+79
+00:03:10,710 --> 00:03:13,788
+So every black note does
+have two names, okay.
+
+80
+00:03:13,788 --> 00:03:16,871
+But the way you remember
+which one is which,
+
+81
+00:03:16,871 --> 00:03:19,750
+like which way is sharp,
+which way is flat,
+
+82
+00:03:19,750 --> 00:03:21,160
+is like this.
+
+83
+00:03:21,160 --> 00:03:24,720
+Sharp, the word sharp has five
+letters in the word, right?
+
+84
+00:03:24,720 --> 00:03:26,500
+So does the word right.
+
+85
+00:03:26,500 --> 00:03:29,700
+So sharp and right always go together.
+
+86
+00:03:29,700 --> 00:03:33,690
+Flat and left both have
+four letters in the word,
+
+87
+00:03:33,690 --> 00:03:35,716
+so a flat is always to the left
+
+88
+00:03:35,717 --> 00:03:37,440
+of the corresponding white note.
+
+89
+00:03:37,440 --> 00:03:41,990
+So that's why this is D
+flat, and also C sharp.
+
+90
+00:03:41,990 --> 00:03:43,330
+So let's keep going down
+
+91
+00:03:43,330 --> 00:03:45,240
+and learn the other five black notes.
+
+92
+00:03:45,240 --> 00:03:50,240
+This is D sharp, and it's also E flat.
+
+93
+00:03:50,480 --> 00:03:52,040
+Alright, so what's this one right here?
+
+94
+00:03:52,040 --> 00:03:56,225
+We have F sharp, and it's also G flat.
+
+95
+00:03:56,225 --> 00:04:00,492
+This one is G sharp, and it's also A flat.
+
+96
+00:04:00,492 --> 00:04:03,355
+And finally we have
+this one, it's A sharp,
+
+97
+00:04:03,355 --> 00:04:05,890
+it's also B flat.
+
+98
+00:04:05,890 --> 00:04:07,565
+Okay, so there's 12 notes.
+
+99
+00:04:07,566 --> 00:04:09,780
+One of the first steps to
+learning how to play piano
+
+100
+00:04:09,780 --> 00:04:12,400
+is just learning those keys.
+
+101
+00:04:12,400 --> 00:04:14,920
+And the best way to do that
+is just with some flashcards,
+
+102
+00:04:14,920 --> 00:04:17,332
+or you can just get somebody,
+a friend or family member,
+
+103
+00:04:17,332 --> 00:04:18,995
+to randomly call one out for you,
+
+104
+00:04:18,995 --> 00:04:21,570
+and you need to go,
+and you need to play it
+
+105
+00:04:21,570 --> 00:04:23,580
+as quickly as you possibly can.
+
+106
+00:04:23,580 --> 00:04:26,630
+And you just drill that
+until these 12 notes
+
+107
+00:04:26,630 --> 00:04:27,960
+become second nature for you.
+
+108
+00:04:27,960 --> 00:04:30,592
+Now, what I don't wanna
+see from you at this point
+
+109
+00:04:30,592 --> 00:04:33,962
+is you learn C, you figure out where C is,
+
+110
+00:04:33,963 --> 00:04:36,700
+and you just think you
+know all the other keys,
+
+111
+00:04:36,700 --> 00:04:37,700
+just because you know C.
+
+112
+00:04:37,700 --> 00:04:39,710
+So if I say play me a G key,
+
+113
+00:04:39,710 --> 00:04:43,239
+I don't want you going
+okay, here's C, D, E, F, G.
+
+114
+00:04:43,240 --> 00:04:44,570
+Okay I got it.
+
+115
+00:04:44,570 --> 00:04:48,659
+No, I want, I want to say G,
+and you go boom, right to G.
+
+116
+00:04:48,660 --> 00:04:50,273
+I like to think of it
+like the days of the week.
+
+117
+00:04:50,273 --> 00:04:52,463
+If I ask you to tell me about Wednesday,
+
+118
+00:04:52,463 --> 00:04:55,481
+you're not gonna start
+counting at Sunday or Monday,
+
+119
+00:04:55,481 --> 00:04:58,409
+and count, okay, Sunday,
+Monday, Tuesday, Wednesday,
+
+120
+00:04:58,410 --> 00:04:59,968
+okay it's the fourth day of the week.
+
+121
+00:04:59,968 --> 00:05:02,320
+No, you're not gonna do that,
+that would just be silly.
+
+122
+00:05:02,320 --> 00:05:04,920
+You already know, it's
+second nature for you,
+
+123
+00:05:04,920 --> 00:05:06,515
+you know that Wednesday's
+the middle weekday,
+
+124
+00:05:06,515 --> 00:05:11,130
+it comes after Tuesday,
+it comes before Thursday.
+
+125
+00:05:11,130 --> 00:05:12,212
+Had to think about it for a second.
+
+126
+00:05:12,212 --> 00:05:14,700
+So, I want you to get to a point
+
+127
+00:05:14,700 --> 00:05:16,080
+with these notes on the piano.
+
+128
+00:05:16,080 --> 00:05:18,800
+There's no reason you can't
+know the notes on the piano,
+
+129
+00:05:18,800 --> 00:05:21,350
+just as well as you know
+the days of the week.
+
+130
+00:05:21,350 --> 00:05:24,100
+So before you move too
+far ahead with the piano,
+
+131
+00:05:24,100 --> 00:05:25,212
+you're going to set yourself up
+
+132
+00:05:25,212 --> 00:05:26,930
+with such a great foundation,
+
+133
+00:05:26,930 --> 00:05:30,344
+if you truly learn just these 12 notes.
+
+134
+00:05:30,344 --> 00:05:33,099
+Okay, so once you do
+that, the next step is,
+
+135
+00:05:33,100 --> 00:05:35,550
+we're gonna start playing
+chords on the piano.
+
+136
+00:05:35,550 --> 00:05:37,857
+What a chord is is simply multiple notes
+
+137
+00:05:37,857 --> 00:05:39,670
+played at the same time.
+
+138
+00:05:39,670 --> 00:05:41,770
+Whereas, we were just
+playing single notes,
+
+139
+00:05:41,770 --> 00:05:44,123
+this is a C note, this is not a chord.
+
+140
+00:05:44,980 --> 00:05:45,856
+This right here would be a chord,
+
+141
+00:05:45,856 --> 00:05:49,210
+because it's multiple notes
+played at the same time.
+
+142
+00:05:49,210 --> 00:05:51,212
+And chords, when you put chords together,
+
+143
+00:05:51,213 --> 00:05:55,720
+that's actually how we build
+modern songs on the piano.
+
+144
+00:05:55,720 --> 00:05:59,290
+And the majority of songs use chords
+
+145
+00:05:59,290 --> 00:06:01,592
+that fall into one of two categories.
+
+146
+00:06:01,592 --> 00:06:05,340
+We have the major chords, and
+the we have the minor chords.
+
+147
+00:06:05,340 --> 00:06:07,530
+Okay, so the major chords are the ones,
+
+148
+00:06:07,530 --> 00:06:09,520
+they sound a little
+more happy and cheerful.
+
+149
+00:06:09,520 --> 00:06:10,988
+Kind of like this, this is a major chord.
+
+150
+00:06:10,988 --> 00:06:12,920
+(strikes major chord on keyboard)
+
+151
+00:06:12,920 --> 00:06:14,470
+And then the minor chords,
+
+152
+00:06:14,470 --> 00:06:15,980
+they're a little more sad and dreary.
+
+153
+00:06:15,980 --> 00:06:17,978
+So this is an example of a minor chord.
+
+154
+00:06:17,978 --> 00:06:19,350
+(strikes minor chord on keyboard)
+
+155
+00:06:19,350 --> 00:06:20,610
+So can you hear the difference there?
+
+156
+00:06:20,610 --> 00:06:21,665
+Major chord.
+
+157
+00:06:21,665 --> 00:06:22,630
+(strikes major chord on keyboard)
+
+158
+00:06:22,630 --> 00:06:23,512
+Minor chord.
+
+159
+00:06:23,512 --> 00:06:26,000
+(strikes minor chord on keyboard)
+
+160
+00:06:26,000 --> 00:06:28,270
+And most modern songs will have a good mix
+
+161
+00:06:28,270 --> 00:06:30,950
+of major chords and minor chords.
+
+162
+00:06:30,950 --> 00:06:32,190
+Now, there's a lot of them,
+
+163
+00:06:32,190 --> 00:06:35,170
+but you don't have to
+memorize each and every one.
+
+164
+00:06:35,170 --> 00:06:38,870
+That's the beauty of patterns and formulas
+
+165
+00:06:38,870 --> 00:06:41,020
+and piano, it's really
+not a hard instrument.
+
+166
+00:06:41,020 --> 00:06:43,546
+So I'm gonna share with
+you a very simple formula
+
+167
+00:06:43,547 --> 00:06:46,930
+for major chords, and once
+you know this formula,
+
+168
+00:06:46,930 --> 00:06:48,060
+you know all the major chords.
+
+169
+00:06:48,060 --> 00:06:50,780
+And I'll share with you the
+formula for minor chords,
+
+170
+00:06:50,780 --> 00:06:52,320
+and once you learn that formula,
+
+171
+00:06:52,320 --> 00:06:53,580
+you know all the minor chords.
+
+172
+00:06:53,580 --> 00:06:54,849
+It's a very simple formula.
+
+173
+00:06:54,850 --> 00:06:59,130
+So for major chords, that
+formula is simply four, three.
+
+174
+00:06:59,130 --> 00:07:00,060
+Here's how you use that.
+
+175
+00:07:00,060 --> 00:07:02,320
+Let's say we wanna play a G major chord.
+
+176
+00:07:02,320 --> 00:07:03,912
+Okay, so we'll start at G,
+
+177
+00:07:03,912 --> 00:07:07,310
+we'll go to the right,
+the very next four notes,
+
+178
+00:07:07,310 --> 00:07:08,890
+and it doesn't matter black or white,
+
+179
+00:07:08,890 --> 00:07:10,229
+whatever's next, count it.
+
+180
+00:07:10,230 --> 00:07:13,240
+So one, two, three, four.
+
+181
+00:07:13,240 --> 00:07:15,420
+There's four, and then we'll go three.
+
+182
+00:07:15,420 --> 00:07:17,543
+One, two, three.
+
+183
+00:07:17,543 --> 00:07:19,530
+There's a G major chord.
+
+184
+00:07:19,530 --> 00:07:20,909
+Go ahead and play with your thumb,
+
+185
+00:07:20,910 --> 00:07:23,796
+your middle finger, and
+your pinky finger for now.
+
+186
+00:07:23,796 --> 00:07:24,629
+G major.
+
+187
+00:07:24,629 --> 00:07:26,400
+Let's try one more major chord.
+
+188
+00:07:26,400 --> 00:07:27,750
+Let's do a D major chord.
+
+189
+00:07:27,750 --> 00:07:29,280
+So we'll start at D.
+
+190
+00:07:29,280 --> 00:07:31,198
+One, two, three, four.
+
+191
+00:07:31,199 --> 00:07:32,945
+One, two, three.
+
+192
+00:07:32,945 --> 00:07:34,304
+D major.
+
+193
+00:07:34,304 --> 00:07:36,751
+Even if you ran into
+something super complicated
+
+194
+00:07:36,752 --> 00:07:40,670
+like a B flat major chord,
+don't get overwhelmed.
+
+195
+00:07:40,670 --> 00:07:41,540
+Just use the formula.
+
+196
+00:07:41,540 --> 00:07:43,020
+It's still just four, three.
+
+197
+00:07:43,020 --> 00:07:46,210
+B flat, left because it's flat.
+
+198
+00:07:46,210 --> 00:07:48,390
+One, two, three, four.
+
+199
+00:07:48,390 --> 00:07:50,159
+One, two, three.
+
+200
+00:07:50,159 --> 00:07:52,670
+B flat major chord.
+
+201
+00:07:52,670 --> 00:07:53,879
+Alright, let's do minor chords.
+
+202
+00:07:53,879 --> 00:07:56,568
+The formula for minor
+chords is very, very similar
+
+203
+00:07:56,568 --> 00:07:58,409
+to the formula for major chords,
+
+204
+00:07:58,410 --> 00:07:59,243
+you just to reverse it.
+
+205
+00:07:59,243 --> 00:08:00,510
+So it's three and then four.
+
+206
+00:08:00,510 --> 00:08:03,170
+So let's say we wanted to play E minor.
+
+207
+00:08:03,170 --> 00:08:05,760
+We start at E, we go one, two, three.
+
+208
+00:08:05,760 --> 00:08:07,890
+And then one, two, three, four.
+
+209
+00:08:07,890 --> 00:08:09,719
+E minor.
+
+210
+00:08:09,720 --> 00:08:10,925
+Let's try C minor.
+
+211
+00:08:10,925 --> 00:08:13,419
+C, one, two, three.
+
+212
+00:08:13,419 --> 00:08:15,407
+One, two, three, four.
+
+213
+00:08:15,407 --> 00:08:16,289
+Okay.
+
+214
+00:08:16,290 --> 00:08:17,580
+So one thing I wanna point out here
+
+215
+00:08:17,580 --> 00:08:19,669
+is the difference between
+a major and a minor chord.
+
+216
+00:08:19,670 --> 00:08:21,630
+If you look at the notes you play,
+
+217
+00:08:21,630 --> 00:08:23,469
+it's actually only one note difference,
+
+218
+00:08:23,470 --> 00:08:27,618
+and that's because four
+plus three is seven
+
+219
+00:08:27,618 --> 00:08:29,780
+and also three plus four is seven.
+
+220
+00:08:29,780 --> 00:08:33,631
+So let's take the C chord as an example.
+
+221
+00:08:33,631 --> 00:08:35,419
+Here we have a C major chord.
+
+222
+00:08:35,419 --> 00:08:37,699
+The only difference between
+a major and a minor chord
+
+223
+00:08:37,700 --> 00:08:38,705
+is the middle note.
+
+224
+00:08:38,705 --> 00:08:41,999
+(striking minor and
+major chords alternately)
+
+225
+00:08:41,999 --> 00:08:42,970
+There we go.
+
+226
+00:08:42,970 --> 00:08:46,160
+So you're going to want
+to practice your chords.
+
+227
+00:08:46,160 --> 00:08:48,959
+Practice your major chords,
+practice your minor chords,
+
+228
+00:08:48,960 --> 00:08:51,203
+and then we can start playing
+
+229
+00:08:51,203 --> 00:08:53,663
+our favorite songs on the piano
+because they're just built
+
+230
+00:08:53,663 --> 00:08:56,730
+with mostly major and minor chords.
+
+231
+00:08:56,730 --> 00:08:58,873
+Now that we've got the major
+and minor chords nailed down,
+
+232
+00:08:58,873 --> 00:09:00,520
+I want you to go ahead
+
+233
+00:09:00,520 --> 00:09:04,040
+and let's learn how to
+play the left hand as well.
+
+234
+00:09:04,040 --> 00:09:07,040
+And at this point, I want to
+see if your hand is big enough
+
+235
+00:09:07,040 --> 00:09:08,390
+to do what I'd like you to do,
+
+236
+00:09:08,390 --> 00:09:11,340
+and if not, I've got a
+different method for you.
+
+237
+00:09:11,340 --> 00:09:13,180
+But what we're going to
+do is we're going to play
+
+238
+00:09:13,180 --> 00:09:14,770
+a C major chord.
+
+239
+00:09:14,770 --> 00:09:16,829
+In our left hand, I just
+want you to play two C's,
+
+240
+00:09:16,830 --> 00:09:19,071
+one with your pinky and
+one with your thumb.
+
+241
+00:09:19,071 --> 00:09:20,130
+(strikes C major chord on keyboard)
+
+242
+00:09:20,130 --> 00:09:22,307
+So like that, that's how we're
+going to play a C major chord
+
+243
+00:09:22,307 --> 00:09:24,870
+and the left hand is the same
+whether it's major or minor.
+
+244
+00:09:24,870 --> 00:09:26,470
+So a C minor would be like this.
+
+245
+00:09:27,320 --> 00:09:29,960
+If you cannot reach
+your fingers like that,
+
+246
+00:09:29,960 --> 00:09:31,000
+if you have small hands
+
+247
+00:09:31,000 --> 00:09:32,847
+and that's just not comfortable for you,
+
+248
+00:09:32,847 --> 00:09:36,210
+what I want you to do is just
+play one note instead of two,
+
+249
+00:09:36,210 --> 00:09:37,127
+so like this:
+
+250
+00:09:37,127 --> 00:09:37,959
+(strikes major chord)
+
+251
+00:09:37,960 --> 00:09:38,888
+or like this:
+
+252
+00:09:38,888 --> 00:09:39,721
+(strikes minor chord)
+
+253
+00:09:39,721 --> 00:09:40,554
+No problem.
+
+254
+00:09:40,554 --> 00:09:42,261
+Alright, so now that we
+know how to play both hands,
+
+255
+00:09:42,261 --> 00:09:45,579
+major and minor chords, let's
+go ahead and work on the song
+
+256
+00:09:45,580 --> 00:09:48,950
+that I told you about,
+"Let it Be" by The Beatles.
+
+257
+00:09:48,950 --> 00:09:50,820
+The way this goes is we're going to start
+
+258
+00:09:50,820 --> 00:09:53,453
+with a C major chord
+and you play it twice.
+
+259
+00:09:53,453 --> 00:09:55,380
+(strikes chord twice on keyboard)
+
+260
+00:09:55,380 --> 00:09:58,194
+And then it goes to G
+major, play that twice.
+
+261
+00:09:58,194 --> 00:09:59,209
+(strikes chord twice on keyboard)
+
+262
+00:09:59,210 --> 00:10:00,985
+And then we have A minor.
+
+263
+00:10:00,985 --> 00:10:03,040
+(strikes chord twice on keyboard)
+
+264
+00:10:03,040 --> 00:10:05,031
+And then we have F major.
+
+265
+00:10:05,032 --> 00:10:06,770
+(strikes chord twice on keyboard)
+
+266
+00:10:06,770 --> 00:10:07,640
+Okay?
+
+267
+00:10:07,640 --> 00:10:09,380
+And then we go back to C major.
+
+268
+00:10:09,380 --> 00:10:11,200
+(strikes chord twice on keyboard)
+
+269
+00:10:11,200 --> 00:10:12,059
+And then G major.
+
+270
+00:10:12,059 --> 00:10:13,500
+(strikes chord twice on keyboard)
+
+271
+00:10:13,500 --> 00:10:14,730
+So everything so far,
+
+272
+00:10:14,730 --> 00:10:16,010
+all the chords I mentioned so far,
+
+273
+00:10:16,010 --> 00:10:18,305
+there's been six of
+them, we play them twice.
+
+274
+00:10:18,305 --> 00:10:22,560
+Now there's four more chords
+and you just play them once
+
+275
+00:10:22,560 --> 00:10:24,459
+and one of them is a little tricky.
+
+276
+00:10:24,460 --> 00:10:26,930
+It's gonna be the trickiest
+part of this whole song,
+
+277
+00:10:26,930 --> 00:10:28,420
+but I'm gonna hold your
+hand right through it.
+
+278
+00:10:28,420 --> 00:10:30,285
+So we have four more chords,
+
+279
+00:10:30,285 --> 00:10:32,760
+and you're just going
+to play them one time.
+
+280
+00:10:32,760 --> 00:10:34,110
+So we have F major.
+
+281
+00:10:34,110 --> 00:10:36,080
+Alright, this next one is the tricky one.
+
+282
+00:10:36,080 --> 00:10:39,590
+We're going to do what's called a C/E,
+
+283
+00:10:39,590 --> 00:10:41,180
+and what that means is
+we're going to do a C
+
+284
+00:10:41,180 --> 00:10:44,145
+on our right hand while
+doing an E in our left hand.
+
+285
+00:10:44,145 --> 00:10:47,250
+Okay, and then the last
+two are pretty standard,
+
+286
+00:10:47,250 --> 00:10:50,577
+we go to a D minor and then a C major.
+
+287
+00:10:50,577 --> 00:10:52,640
+Right, so let me hit
+those last four again.
+
+288
+00:10:52,640 --> 00:10:57,640
+It's F, then it's C/E, D minor, C.
+
+289
+00:10:57,674 --> 00:10:59,890
+Alright, so let's run through
+that whole sequence again.
+
+290
+00:10:59,890 --> 00:11:01,537
+Remember the first six chords we do,
+
+291
+00:11:01,537 --> 00:11:03,552
+you play them twice
+and then the last four,
+
+292
+00:11:03,552 --> 00:11:05,393
+you just play them once.
+
+293
+00:11:05,393 --> 00:11:09,226
+(striking chords on keyboard)
+
+294
+00:11:17,730 --> 00:11:19,197
+You see how that's starting to sound like
+
+295
+00:11:19,197 --> 00:11:20,806
+"Let it Be" by The Beatles?
+
+296
+00:11:20,806 --> 00:11:23,700
+Let me do it for you just one more time
+
+297
+00:11:23,700 --> 00:11:26,470
+and then go ahead and practice
+these chords on your own.
+
+298
+00:11:26,470 --> 00:11:27,450
+It's 10 chords in all.
+
+299
+00:11:27,450 --> 00:11:30,284
+Remember the first six,
+we're gonna play them twice,
+
+300
+00:11:30,284 --> 00:11:33,465
+and the last four, we're
+going to do it once.
+
+301
+00:11:33,465 --> 00:11:37,298
+(striking chords on keyboard)
+
+302
+00:11:47,660 --> 00:11:49,490
+So now you'll hopefully be able to impress
+
+303
+00:11:49,490 --> 00:11:50,650
+all your friends and family
+
+304
+00:11:50,650 --> 00:11:53,770
+by being able to play "Let
+It Be" by The Beatles,
+
+305
+00:11:53,770 --> 00:11:55,770
+at least a basic version of that song.
+
+306
+00:11:55,770 --> 00:11:58,500
+If you're ready to learn
+the more advanced techniques
+
+307
+00:11:58,500 --> 00:12:00,510
+with that song and countless others,
+
+308
+00:12:00,510 --> 00:12:03,718
+if you're ready to learn how
+to learn new songs on your own,
+
+309
+00:12:03,718 --> 00:12:07,500
+head over to my website
+at pianoin21days.com.
+
+310
+00:12:07,500 --> 00:12:09,220
+I've got a free resource,
+
+311
+00:12:09,220 --> 00:12:11,240
+more free lessons for you waiting there.
+
+312
+00:12:11,240 --> 00:12:14,160
+I've got the first five
+days worth of lessons
+
+313
+00:12:14,160 --> 00:12:16,180
+waiting for you and a free workbook.
+
+314
+00:12:16,180 --> 00:12:18,026
+Again, just head to pianoin21days.com
+
+315
+00:12:18,027 --> 00:12:22,503
+or just click the link in the
+description below this video.
+

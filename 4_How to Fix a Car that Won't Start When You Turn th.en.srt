@@ -1,0 +1,455 @@
+﻿1
+00:00:00,000 --> 00:00:00,500
+
+
+2
+00:00:00,500 --> 00:00:01,964
+One, two three four!
+
+3
+00:00:01,964 --> 00:00:04,419
+[MUSIC PLAYING]
+
+4
+00:00:04,419 --> 00:00:06,874
+Rev up your engines!
+
+5
+00:00:06,874 --> 00:00:09,820
+[REVVING ENGINE]
+
+6
+00:00:09,820 --> 00:00:11,293
+
+
+7
+00:00:11,293 --> 00:00:14,729
+[SCREECHING TIRES]
+
+8
+00:00:14,730 --> 00:00:15,712
+[SKIDS TO STOP]
+
+9
+00:00:15,712 --> 00:00:19,009
+It's time for Scottykilmer.com.
+
+10
+00:00:19,010 --> 00:00:19,610
+OK.
+
+11
+00:00:19,610 --> 00:00:21,169
+It's happened to all of us.
+
+12
+00:00:21,170 --> 00:00:24,890
+You get in your car and turn the
+key and the only thing you hear
+
+13
+00:00:24,890 --> 00:00:27,280
+is a click.
+
+14
+00:00:27,280 --> 00:00:28,200
+So what do you do?
+
+15
+00:00:28,200 --> 00:00:29,849
+You open the hood and check.
+
+16
+00:00:29,850 --> 00:00:32,439
+Up it goes.
+
+17
+00:00:32,439 --> 00:00:34,420
+Now, if your battery
+is weak, the starter
+
+18
+00:00:34,420 --> 00:00:36,400
+will click because it
+doesn't have enough juice
+
+19
+00:00:36,400 --> 00:00:37,780
+to turn the engine over.
+
+20
+00:00:37,780 --> 00:00:39,895
+So try jump-starting it first.
+
+21
+00:00:39,895 --> 00:00:41,410
+Get good battery cables.
+
+22
+00:00:41,410 --> 00:00:43,569
+Cheap ones will melt
+or won't work right.
+
+23
+00:00:43,570 --> 00:00:47,500
+Put the positive on the
+positive of your donor battery
+
+24
+00:00:47,500 --> 00:00:50,050
+and put the other positive
+end on the positive
+
+25
+00:00:50,050 --> 00:00:51,455
+of the battery in your car.
+
+26
+00:00:51,455 --> 00:00:54,430
+Then put one of the negative
+cables on the negative terminal
+
+27
+00:00:54,430 --> 00:00:56,560
+of your donor battery.
+
+28
+00:00:56,560 --> 00:00:59,320
+Clamp the other negative
+one on any solid metal
+
+29
+00:00:59,320 --> 00:01:01,060
+part on the engine.
+
+30
+00:01:01,060 --> 00:01:03,310
+That keeps the battery from
+accidentally blowing up
+
+31
+00:01:03,310 --> 00:01:05,050
+from hydrogen vapor.
+
+32
+00:01:05,050 --> 00:01:06,130
+Now, we'll turn it.
+
+33
+00:01:06,130 --> 00:01:09,490
+And nope, the car
+still won't start.
+
+34
+00:01:09,490 --> 00:01:11,199
+So I know the battery is good.
+
+35
+00:01:11,200 --> 00:01:12,160
+It's not the battery.
+
+36
+00:01:12,160 --> 00:01:14,590
+Now, generally, either
+the starter's bad
+
+37
+00:01:14,590 --> 00:01:16,120
+or the engine is locked up.
+
+38
+00:01:16,120 --> 00:01:17,920
+So let's try turning
+the engine by hand
+
+39
+00:01:17,920 --> 00:01:19,570
+to see if it's locked up.
+
+40
+00:01:19,570 --> 00:01:21,830
+We'll take the wheel
+out of the way.
+
+41
+00:01:21,830 --> 00:01:24,179
+And there's the current
+shaft fold right here.
+
+42
+00:01:24,180 --> 00:01:27,132
+You will get a cheater bar and
+a socket that fits on there.
+
+43
+00:01:27,132 --> 00:01:29,590
+We'll put it on the bolt and
+see if we can turn the engine.
+
+44
+00:01:29,590 --> 00:01:32,170
+Now, it turns so we know
+the engine isn't locked up.
+
+45
+00:01:32,170 --> 00:01:34,600
+That leaves the number one
+culprit being a bad starter.
+
+46
+00:01:34,600 --> 00:01:36,815
+So let's take the
+starter off and test it.
+
+47
+00:01:36,816 --> 00:01:38,440
+Now, in this car,
+the starter is easier
+
+48
+00:01:38,440 --> 00:01:41,870
+to access from the bottom,
+so you jack it up in the air
+
+49
+00:01:41,870 --> 00:01:43,900
+and there's the starter
+motor right there.
+
+50
+00:01:43,900 --> 00:01:46,330
+We can test it by
+hot-wiring it first to see
+
+51
+00:01:46,330 --> 00:01:49,260
+if it'll work if we do that.
+
+52
+00:01:49,260 --> 00:01:51,750
+Now, in this starter motor,
+this little wire here
+
+53
+00:01:51,750 --> 00:01:54,790
+is the one that energizes it,
+so we'll put a jumper wire
+
+54
+00:01:54,790 --> 00:01:56,620
+on top of that little wire.
+
+55
+00:01:56,620 --> 00:01:59,865
+Touch it on the positive
+terminal of the battery.
+
+56
+00:01:59,865 --> 00:02:01,990
+Well, it's a good thing we
+did that because there's
+
+57
+00:02:01,990 --> 00:02:03,369
+nothing wrong with the starter.
+
+58
+00:02:03,370 --> 00:02:06,270
+There's a problem in the wiring
+system that we have to fix.
+
+59
+00:02:06,270 --> 00:02:08,380
+Now, starting systems
+have relays and switches
+
+60
+00:02:08,380 --> 00:02:09,713
+and all kinds of things in them.
+
+61
+00:02:09,713 --> 00:02:12,370
+But I noticed the backup
+lights are on in this car.
+
+62
+00:02:12,370 --> 00:02:14,120
+Now the backup lights
+stay on in this car,
+
+63
+00:02:14,120 --> 00:02:16,577
+whether it's in park, neutral,
+drive-- it doesn't matter.
+
+64
+00:02:16,577 --> 00:02:18,910
+So there's got to be a problem
+in the transmission range
+
+65
+00:02:18,910 --> 00:02:19,410
+sensors.
+
+66
+00:02:19,410 --> 00:02:20,710
+It's probably broken.
+
+67
+00:02:20,710 --> 00:02:24,010
+So I called up a Chevy
+dealer and they're $163.
+
+68
+00:02:24,010 --> 00:02:26,350
+And considering the
+shape of this old car
+
+69
+00:02:26,350 --> 00:02:28,609
+with a taped-on mirror
+that just fell off
+
+70
+00:02:28,610 --> 00:02:32,820
+and body parts that are
+barely even hanging on,
+
+71
+00:02:32,820 --> 00:02:34,579
+I'm just going to bypass it.
+
+72
+00:02:34,580 --> 00:02:37,230
+Splice the two wires together
+to bypass the switch so
+
+73
+00:02:37,230 --> 00:02:39,182
+that it'll start all the time.
+
+74
+00:02:39,182 --> 00:02:40,140
+The owner doesn't care.
+
+75
+00:02:40,140 --> 00:02:42,055
+He just wants the car
+to start and as long
+
+76
+00:02:42,056 --> 00:02:43,680
+as he remembers if
+it's in drive and he
+
+77
+00:02:43,680 --> 00:02:45,360
+hits the start and
+the car will start,
+
+78
+00:02:45,360 --> 00:02:46,887
+it's not going to hurt anything.
+
+79
+00:02:46,887 --> 00:02:48,470
+You just go down to
+the neutral safety
+
+80
+00:02:48,470 --> 00:02:50,660
+switch here and pull
+the connector off.
+
+81
+00:02:50,660 --> 00:02:51,859
+Here's the connector.
+
+82
+00:02:51,860 --> 00:02:54,000
+Then with the test
+light, see which one gets
+
+83
+00:02:54,000 --> 00:02:56,460
+power when you turn the key on.
+
+84
+00:02:56,460 --> 00:02:59,880
+And in this case,
+it's this wire.
+
+85
+00:02:59,880 --> 00:03:01,799
+Then find the wire that
+when it gets power,
+
+86
+00:03:01,800 --> 00:03:03,600
+turns the starter on like this.
+
+87
+00:03:03,600 --> 00:03:06,480
+You get power with
+your device and then
+
+88
+00:03:06,480 --> 00:03:08,450
+the engine starts right up.
+
+89
+00:03:08,450 --> 00:03:12,640
+Then you just splice those two
+wires together and it'll start.
+
+90
+00:03:12,640 --> 00:03:16,332
+Now, granted, it'll
+start in all gears now.
+
+91
+00:03:16,332 --> 00:03:17,790
+But it saved a
+whole bunch of money
+
+92
+00:03:17,790 --> 00:03:20,160
+and this old thing, who
+knows how much longer it's
+
+93
+00:03:20,160 --> 00:03:22,320
+going to be on the road anyway.
+
+94
+00:03:22,320 --> 00:03:24,579
+So the next time your
+car doesn't do anything
+
+95
+00:03:24,580 --> 00:03:26,430
+when you turn the key
+and try to start it,
+
+96
+00:03:26,430 --> 00:03:28,652
+why not fix it yourself.
+
+97
+00:03:28,652 --> 00:03:30,892
+And remember, if you
+have any car questions,
+
+98
+00:03:30,892 --> 00:03:32,350
+just visit the
+Scottykilmerchannel.
+
+99
+00:03:32,350 --> 00:03:36,071
+[MUSIC PLAYING]
+
+100
+00:03:36,071 --> 00:03:36,571
+
+
